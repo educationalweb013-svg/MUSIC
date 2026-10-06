@@ -1,0 +1,6 @@
+{
+  "name": "MUSIC - Video Streaming Platform",
+  "description": "A modern, responsive music video streaming platform featuring high-definition music videos, instant playback, and real-time search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
